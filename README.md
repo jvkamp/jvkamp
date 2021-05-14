@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jvkamp
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning C#, Python, Dart and Flutter
