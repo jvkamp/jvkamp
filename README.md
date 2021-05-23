@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @jvkamp
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning C#, Python, Dart and Flutter
+- 👀 I’m interested in software development, with a particular interest in mobile development
+- 🧐 I'm experienced with C#, Flutter (Dart), HTML, CSS, and JS
+- 🌱 I’m currently learning Python, Swift, and Go
