@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jvkamp (Joe Vahlenkamp)
-- 👀 I’m interested in software development, with a particular interest in mobile development
-- 🧐 I'm experienced with C#, Flutter (Dart), HTML, CSS, and JS
+- 👀 I enjoy learning new things, especially when it comes to software development
+- 🧐 I'm experienced with C# (.NET and Unity), Dart (Flutter), HTML, CSS, and JS
 - 🌱 I’m currently learning Python, Swift, and Golang
